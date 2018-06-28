@@ -1,0 +1,33 @@
+{
+  "name": "typescriptangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseLuisGithub/typescriptAngular.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseLuisGithub/typescriptAngular/issues"
+  },
+  "homepage": "https://github.com/JoseLuisGithub/typescriptAngular#readme",
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-open": "^3.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^5.0.0-alpha.2",
+    "gulp-util": "^3.0.8",
+    "tsify": "^4.0.0",
+    "typescript": "^2.9.2",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.0"
+  }
+}
